@@ -118,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ]
@@ -140,6 +142,11 @@
   },
   "active": "6684d3c51b2df173",
   "lastOpenFiles": [
+    "未命名.md",
+    "图形学/WebGL/test.md",
+    "图形学/WebGL",
+    "图形学",
+    "conflict-files-obsidian-git.md",
     "blogs"
   ]
 }
