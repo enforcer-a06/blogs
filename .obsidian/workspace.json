@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c4fd943fd4024faa",
+        "id": "44b140437ac984f8",
         "type": "tabs",
         "children": [
           {
-            "id": "1fcfbbe9b768d8de",
+            "id": "87f2c4942d015aed",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "图形学/WebGL/test.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "图形学/WebGL/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "图形学/WebGL/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "图形学/WebGL/test.md"
+              }
             }
           }
         ]
@@ -138,8 +146,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6684d3c51b2df173",
+  "active": "87f2c4942d015aed",
   "lastOpenFiles": [
+    "图形学/WebGL/test.md",
+    "未命名.md",
     "运维/Docker",
     "图形学/WebGL",
     "运维",
